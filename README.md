@@ -117,7 +117,7 @@ I build complete web and mobile applications — from clean frontends to solid b
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xLexus&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=xLexus&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=xLexus&theme=dark&hide_border=true)
 
